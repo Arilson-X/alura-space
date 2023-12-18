@@ -10,4 +10,4 @@ autenticação e no final foi possível até mesmo fazer a integração com o Am
 | :sparkles: Nome        | **Alura Space**
 | :label: Tecnologias | Python, Django, AWS S3
 
-![Relatorio](#vitrinedev)
+![Relatorio](https://github.com/Arilson-X/alura-space/blob/main/alura-space.png#vitrinedev)
